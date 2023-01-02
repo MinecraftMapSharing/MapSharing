@@ -1,2 +1,2 @@
 # MapSharing
-Share minecraft homemade maps
+This is a free, homemade Minecraft map sharing library :)
