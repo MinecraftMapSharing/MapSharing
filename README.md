@@ -1,5 +1,5 @@
 # MapSharing
-
+The first version will be released on the 10th
 <a href="#1">1.language</a>
 <br>
 <a href="#2">2.synopsis</a>
